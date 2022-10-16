@@ -1,0 +1,15 @@
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\bin\Debug\net6.0\replace_substring.exe
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\bin\Debug\net6.0\replace_substring.deps.json
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\bin\Debug\net6.0\replace_substring.runtimeconfig.json
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\bin\Debug\net6.0\replace_substring.dll
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\bin\Debug\net6.0\ref\replace_substring.dll
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\bin\Debug\net6.0\replace_substring.pdb
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\obj\Debug\net6.0\replace_substring.csproj.AssemblyReference.cache
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\obj\Debug\net6.0\replace_substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\obj\Debug\net6.0\replace_substring.AssemblyInfoInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\obj\Debug\net6.0\replace_substring.AssemblyInfo.cs
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\obj\Debug\net6.0\replace_substring.csproj.CoreCompileInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\obj\Debug\net6.0\replace_substring.dll
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\obj\Debug\net6.0\ref\replace_substring.dll
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\obj\Debug\net6.0\replace_substring.pdb
+C:\Users\Moons\joan.net\C#LINQ\replace_substring\obj\Debug\net6.0\replace_substring.genruntimeconfig.cache
