@@ -1,0 +1,15 @@
+C:\Users\Moons\joan.net\C#LINQ\lasword\bin\Debug\net6.0\lasword.exe
+C:\Users\Moons\joan.net\C#LINQ\lasword\bin\Debug\net6.0\lasword.deps.json
+C:\Users\Moons\joan.net\C#LINQ\lasword\bin\Debug\net6.0\lasword.runtimeconfig.json
+C:\Users\Moons\joan.net\C#LINQ\lasword\bin\Debug\net6.0\lasword.dll
+C:\Users\Moons\joan.net\C#LINQ\lasword\bin\Debug\net6.0\ref\lasword.dll
+C:\Users\Moons\joan.net\C#LINQ\lasword\bin\Debug\net6.0\lasword.pdb
+C:\Users\Moons\joan.net\C#LINQ\lasword\obj\Debug\net6.0\lasword.csproj.AssemblyReference.cache
+C:\Users\Moons\joan.net\C#LINQ\lasword\obj\Debug\net6.0\lasword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moons\joan.net\C#LINQ\lasword\obj\Debug\net6.0\lasword.AssemblyInfoInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\lasword\obj\Debug\net6.0\lasword.AssemblyInfo.cs
+C:\Users\Moons\joan.net\C#LINQ\lasword\obj\Debug\net6.0\lasword.csproj.CoreCompileInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\lasword\obj\Debug\net6.0\lasword.dll
+C:\Users\Moons\joan.net\C#LINQ\lasword\obj\Debug\net6.0\ref\lasword.dll
+C:\Users\Moons\joan.net\C#LINQ\lasword\obj\Debug\net6.0\lasword.pdb
+C:\Users\Moons\joan.net\C#LINQ\lasword\obj\Debug\net6.0\lasword.genruntimeconfig.cache
