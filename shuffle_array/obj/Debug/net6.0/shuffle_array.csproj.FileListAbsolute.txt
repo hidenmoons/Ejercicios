@@ -1,0 +1,15 @@
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\bin\Debug\net6.0\shuffle_array.exe
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\bin\Debug\net6.0\shuffle_array.deps.json
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\bin\Debug\net6.0\shuffle_array.runtimeconfig.json
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\bin\Debug\net6.0\shuffle_array.dll
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\bin\Debug\net6.0\ref\shuffle_array.dll
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\bin\Debug\net6.0\shuffle_array.pdb
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\obj\Debug\net6.0\shuffle_array.csproj.AssemblyReference.cache
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\obj\Debug\net6.0\shuffle_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\obj\Debug\net6.0\shuffle_array.AssemblyInfoInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\obj\Debug\net6.0\shuffle_array.AssemblyInfo.cs
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\obj\Debug\net6.0\shuffle_array.csproj.CoreCompileInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\obj\Debug\net6.0\shuffle_array.dll
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\obj\Debug\net6.0\ref\shuffle_array.dll
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\obj\Debug\net6.0\shuffle_array.pdb
+C:\Users\Moons\joan.net\C#LINQ\shuffle_array\obj\Debug\net6.0\shuffle_array.genruntimeconfig.cache
