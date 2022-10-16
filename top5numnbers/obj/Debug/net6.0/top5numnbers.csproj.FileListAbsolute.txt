@@ -1,0 +1,15 @@
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\bin\Debug\net6.0\top5numnbers.exe
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\bin\Debug\net6.0\top5numnbers.deps.json
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\bin\Debug\net6.0\top5numnbers.runtimeconfig.json
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\bin\Debug\net6.0\top5numnbers.dll
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\bin\Debug\net6.0\ref\top5numnbers.dll
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\bin\Debug\net6.0\top5numnbers.pdb
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\obj\Debug\net6.0\top5numnbers.csproj.AssemblyReference.cache
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\obj\Debug\net6.0\top5numnbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\obj\Debug\net6.0\top5numnbers.AssemblyInfoInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\obj\Debug\net6.0\top5numnbers.AssemblyInfo.cs
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\obj\Debug\net6.0\top5numnbers.csproj.CoreCompileInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\obj\Debug\net6.0\top5numnbers.dll
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\obj\Debug\net6.0\ref\top5numnbers.dll
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\obj\Debug\net6.0\top5numnbers.pdb
+C:\Users\Moons\joan.net\C#LINQ\top5numnbers\obj\Debug\net6.0\top5numnbers.genruntimeconfig.cache
