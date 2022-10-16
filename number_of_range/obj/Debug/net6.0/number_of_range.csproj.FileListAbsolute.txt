@@ -1,0 +1,15 @@
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\bin\Debug\net6.0\number_of_range.exe
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\bin\Debug\net6.0\number_of_range.deps.json
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\bin\Debug\net6.0\number_of_range.runtimeconfig.json
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\bin\Debug\net6.0\number_of_range.dll
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\bin\Debug\net6.0\ref\number_of_range.dll
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\bin\Debug\net6.0\number_of_range.pdb
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\obj\Debug\net6.0\number_of_range.csproj.AssemblyReference.cache
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\obj\Debug\net6.0\number_of_range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\obj\Debug\net6.0\number_of_range.AssemblyInfoInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\obj\Debug\net6.0\number_of_range.AssemblyInfo.cs
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\obj\Debug\net6.0\number_of_range.csproj.CoreCompileInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\obj\Debug\net6.0\number_of_range.dll
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\obj\Debug\net6.0\ref\number_of_range.dll
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\obj\Debug\net6.0\number_of_range.pdb
+C:\Users\Moons\joan.net\C#LINQ\number_of_range\obj\Debug\net6.0\number_of_range.genruntimeconfig.cache
