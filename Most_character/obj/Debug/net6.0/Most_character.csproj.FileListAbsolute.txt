@@ -1,0 +1,15 @@
+C:\Users\Moons\joan.net\C#LINQ\Most_character\bin\Debug\net6.0\Most_character.exe
+C:\Users\Moons\joan.net\C#LINQ\Most_character\bin\Debug\net6.0\Most_character.deps.json
+C:\Users\Moons\joan.net\C#LINQ\Most_character\bin\Debug\net6.0\Most_character.runtimeconfig.json
+C:\Users\Moons\joan.net\C#LINQ\Most_character\bin\Debug\net6.0\Most_character.dll
+C:\Users\Moons\joan.net\C#LINQ\Most_character\bin\Debug\net6.0\ref\Most_character.dll
+C:\Users\Moons\joan.net\C#LINQ\Most_character\bin\Debug\net6.0\Most_character.pdb
+C:\Users\Moons\joan.net\C#LINQ\Most_character\obj\Debug\net6.0\Most_character.csproj.AssemblyReference.cache
+C:\Users\Moons\joan.net\C#LINQ\Most_character\obj\Debug\net6.0\Most_character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moons\joan.net\C#LINQ\Most_character\obj\Debug\net6.0\Most_character.AssemblyInfoInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\Most_character\obj\Debug\net6.0\Most_character.AssemblyInfo.cs
+C:\Users\Moons\joan.net\C#LINQ\Most_character\obj\Debug\net6.0\Most_character.csproj.CoreCompileInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\Most_character\obj\Debug\net6.0\Most_character.dll
+C:\Users\Moons\joan.net\C#LINQ\Most_character\obj\Debug\net6.0\ref\Most_character.dll
+C:\Users\Moons\joan.net\C#LINQ\Most_character\obj\Debug\net6.0\Most_character.pdb
+C:\Users\Moons\joan.net\C#LINQ\Most_character\obj\Debug\net6.0\Most_character.genruntimeconfig.cache
