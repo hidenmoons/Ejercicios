@@ -1,0 +1,15 @@
+C:\Users\Moons\joan.net\C#LINQ\slect_words\bin\Debug\net6.0\slect_words.exe
+C:\Users\Moons\joan.net\C#LINQ\slect_words\bin\Debug\net6.0\slect_words.deps.json
+C:\Users\Moons\joan.net\C#LINQ\slect_words\bin\Debug\net6.0\slect_words.runtimeconfig.json
+C:\Users\Moons\joan.net\C#LINQ\slect_words\bin\Debug\net6.0\slect_words.dll
+C:\Users\Moons\joan.net\C#LINQ\slect_words\bin\Debug\net6.0\ref\slect_words.dll
+C:\Users\Moons\joan.net\C#LINQ\slect_words\bin\Debug\net6.0\slect_words.pdb
+C:\Users\Moons\joan.net\C#LINQ\slect_words\obj\Debug\net6.0\slect_words.csproj.AssemblyReference.cache
+C:\Users\Moons\joan.net\C#LINQ\slect_words\obj\Debug\net6.0\slect_words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moons\joan.net\C#LINQ\slect_words\obj\Debug\net6.0\slect_words.AssemblyInfoInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\slect_words\obj\Debug\net6.0\slect_words.AssemblyInfo.cs
+C:\Users\Moons\joan.net\C#LINQ\slect_words\obj\Debug\net6.0\slect_words.csproj.CoreCompileInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\slect_words\obj\Debug\net6.0\slect_words.dll
+C:\Users\Moons\joan.net\C#LINQ\slect_words\obj\Debug\net6.0\ref\slect_words.dll
+C:\Users\Moons\joan.net\C#LINQ\slect_words\obj\Debug\net6.0\slect_words.pdb
+C:\Users\Moons\joan.net\C#LINQ\slect_words\obj\Debug\net6.0\slect_words.genruntimeconfig.cache
