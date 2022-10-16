@@ -1,0 +1,15 @@
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\bin\Debug\net6.0\minimun_length.exe
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\bin\Debug\net6.0\minimun_length.deps.json
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\bin\Debug\net6.0\minimun_length.runtimeconfig.json
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\bin\Debug\net6.0\minimun_length.dll
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\bin\Debug\net6.0\ref\minimun_length.dll
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\bin\Debug\net6.0\minimun_length.pdb
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\obj\Debug\net6.0\minimun_length.csproj.AssemblyReference.cache
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\obj\Debug\net6.0\minimun_length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\obj\Debug\net6.0\minimun_length.AssemblyInfoInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\obj\Debug\net6.0\minimun_length.AssemblyInfo.cs
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\obj\Debug\net6.0\minimun_length.csproj.CoreCompileInputs.cache
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\obj\Debug\net6.0\minimun_length.dll
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\obj\Debug\net6.0\ref\minimun_length.dll
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\obj\Debug\net6.0\minimun_length.pdb
+C:\Users\Moons\joan.net\C#LINQ\minimun_length\obj\Debug\net6.0\minimun_length.genruntimeconfig.cache
